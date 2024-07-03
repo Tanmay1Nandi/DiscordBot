@@ -1,0 +1,5 @@
+discord
+groq
+flask
+gunicorn
+aiogram==2.23.1
